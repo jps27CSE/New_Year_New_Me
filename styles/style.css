@@ -112,7 +112,7 @@ body {
   margin-top: 150px;
   width: 1140px;
   height: 300px;
-  padding-left: 350px;
+  padding-left: 430px;
 }
 
 .plans_heading_main {
@@ -134,7 +134,7 @@ body {
 /* image section */
 
 .section_image_watch {
-  margin-left: 360px;
+  margin-left: 420px;
   width: 1140px;
   height: 300px;
   flex-shrink: 0;
@@ -246,4 +246,6 @@ footer {
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+  border-radius: 8px;
+  background: #fff;
 }
