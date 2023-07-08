@@ -78,7 +78,6 @@ body {
   margin-top: 230px;
   padding-left: 136px;
   width: 1600px;
-  height: 3229px;
 }
 
 .main_section_title {
@@ -105,4 +104,29 @@ body {
   font-size: 16px;
   line-height: 26px;
   margin-left: 20px;
+}
+
+/* plans sectin */
+
+.plans {
+  margin-top: 150px;
+  width: 1140px;
+  height: 300px;
+  padding-left: 350px;
+}
+
+.plans_heading_main {
+  text-align: center;
+  color: var(--dark-01, #151414);
+  font-size: 40px;
+}
+
+.stacks_container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.stack {
+  margin-top: 55px;
+  text-align: center;
 }
