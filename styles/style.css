@@ -140,6 +140,7 @@ body {
   flex-shrink: 0;
   border-radius: 8px;
   background-image: url("../images/gradient2.png"), url("../images/watch.png");
+  margin-bottom: 130px;
 }
 
 .section_image_title {
